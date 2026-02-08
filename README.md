@@ -8,3 +8,5 @@ adivinhar e informe se ele acertou ou errou.
 
 Exercício 4 (List_random_numbers.py): Crie um programa que gere uma lista com cinco números aleatórios e mostre o
 maior e o menor número da lista.
+
+Exercício 5 (dateandtime.py): Mostre na tela a data atual, o horário atual e apenas o ano atual.
