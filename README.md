@@ -2,3 +2,6 @@ Exercício 1 (Square_root.py): Peça ao usuário um número e mostre a raiz quad
 número e a raiz quadrada arredondada para duas casas decimais.
 
 Exercício 2 (Hypotenuse.py): Peça dois números ao usuário e calcule a hipotenusa de um triângulo retângulo.
+
+Exercício 3 (guess_number.py): Crie um programa que sorteie um número de 1 a 10, peça para o usuário tentar
+adivinhar e informe se ele acertou ou errou.
