@@ -2,7 +2,7 @@
 import random
 
 #Mensagem de inicio do programa e função para gerar número
-print("Bem vindo ao dado númerico\nVou sortear um número de 1 a 6\nE te dizer se sou par ou ímpar")
+print("Bem vindo ao dado númerico\nVou sortear um número de 1 a 6\nE te dizer se ele é par ou ímpar")
 number = random.randrange(1,7)
 
 #Condicional para verificar se é par ou ímpar, mostra na tela o resultado ao usuário
